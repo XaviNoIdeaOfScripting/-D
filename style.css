@@ -1,0 +1,33 @@
+body {
+  background: #222;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.casino {
+  background: #333;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.slots {
+  font-size: 60px;
+  margin: 20px 0;
+}
+
+.slot {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background: gold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
